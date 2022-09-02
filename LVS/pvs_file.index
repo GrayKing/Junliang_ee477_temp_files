@@ -1,0 +1,90 @@
+"Cadence Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045/.cadence/
+"Current Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045
+"GUI Flow" internal none virtuoso6
+"GUI Preset" internal none /home/viterbi/09/lijunlia/work_gpdk045/LVS/.preset.autosave
+"Job Signature" internal none IPVS_1662105597_264436
+"PVS Job Mode" internal none lvs
+"Run Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045/LVS
+"Technology Mapping File" internal none /home/viterbi/09/lijunlia/work_gpdk045/pvtech.lib
+"Technology Name" internal none "gpdk045_pvs"
+"Technology Rule File" internal none /home/viterbi/09/lijunlia/work_gpdk045/LVS/.technology.rul
+"Technology RuleSet" internal none "default"
+"PVS Version" internal none 16.15-s010
+"Binary Name" internal none pvsgui
+"PVS Build Date" internal none "Fri Jun 28 22:24:07 PDT 2019"
+"PVS Job Time" internal none 1662105600
+"CDL Out Display Pin Information" internal none ENABLED
+"CDL Out Stop List" internal text auCdl
+"CDL Out View List" internal text auCdl schematic
+"Control File" input text /home/viterbi/09/lijunlia/work_gpdk045/LVS/pvslvsctl
+"DFII version" internal none 6.1.7.0
+"Do not check rules files before run" internal none ENABLED
+"Extracted Spice File" output text /home/viterbi/09/lijunlia/work_gpdk045/LVS/Inv.spi
+"Input Layout" input none OA: lab0 Inv layout
+"Input Schematic" input none OA: lab0 Inv schematic
+"Intermediate GDSII File" output none /home/viterbi/09/lijunlia/work_gpdk045/LVS/Inv.gds
+"Intermediate GDSII File creation Errors" output none /home/viterbi/09/lijunlia/work_gpdk045/LVS/PIPO1.LOG
+"Intermediate OASIS File creation Errors" output none /home/viterbi/09/lijunlia/work_gpdk045/LVS/PIPO1.LOG
+"Layout Cell Name" internal none Inv
+"Layout ConvertPin" internal text geometryAndText
+"Layout GDSII" input none /home/viterbi/09/lijunlia/work_gpdk045/LVS/Inv.gds
+"Layout HierDepth" internal none 32
+"Layout Library Name" internal none lab0
+"Layout MaxVertices" internal none 2048
+"Layout NoConvertHalfWidthPath" input none nil
+"Layout ReplaceBusBitChar" input none nil
+"Layout Scale" internal none 0.0005
+"Layout TechLib" internal none gpdk045
+"Layout Top Cell" internal none Inv
+"Layout View Name" internal none layout
+"Output Layout Cellmap I" internal text /home/viterbi/09/lijunlia/work_gpdk045/LVS/lay_cellMap.txt
+"PIPO Log I" log text  /home/viterbi/09/lijunlia/work_gpdk045/LVS/PIPO1.LOG
+"PIPO Output I" internal text  /home/viterbi/09/lijunlia/work_gpdk045/LVS/PIPO1.OUT
+"PIPO Setup File I" internal text  /home/viterbi/09/lijunlia/work_gpdk045/LVS/pipo1.setup
+"PVS Job Log" log text /home/viterbi/09/lijunlia/work_gpdk045/LVS/pvsuilvs.log
+"PVS Job Mode" internal none lvs
+"Rule File" input text /home/viterbi/09/lijunlia/work_gpdk045/LVS/.technology.rul
+"Run Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045/LVS
+"SI Log" log text  /home/viterbi/09/lijunlia/work_gpdk045/LVS/SI.LOG
+"SI OSS Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045/LVS/
+"SI Output" log text  /home/viterbi/09/lijunlia/work_gpdk045/LVS/SI.OUT
+"SI Setup File" internal text  /home/viterbi/09/lijunlia/work_gpdk045/LVS/si.env
+"Schematic Cell Name" internal none Inv
+"Schematic Library Name" internal none lab0
+"Schematic Netlist" output text /home/viterbi/09/lijunlia/work_gpdk045/LVS/Inv.cdl
+"Schematic Top Cell" internal none Inv
+"Schematic View Name" internal none schematic
+"Simulator Mode" internal none auCdl
+"PVS Version" internal none 16.15-s010
+"Binary Name" internal none pvsvirt
+"PVS Build Date" internal none "Fri Jun 28 22:24:07 PDT 2019"
+"PVS Job Time" internal none 1662105605
+"Comparison Report" output cls /home/viterbi/09/lijunlia/work_gpdk045/LVS/Inv.rep.cls
+"ERC Result" internal none EMPTY
+"ERC Summary" output text /home/viterbi/09/lijunlia/work_gpdk045/LVS/Inv.sum
+"Extracted Spice File" output text /home/viterbi/09/lijunlia/work_gpdk045/LVS/Inv.spi
+"Extraction Report" output erc /home/viterbi/09/lijunlia/work_gpdk045/LVS/Inv.rep
+"Extraction Result" internal none CLEAN
+"LVS Report Options" internal none -none
+"Layout GDSII" input none /home/viterbi/09/lijunlia/work_gpdk045/LVS/Inv.gds
+"Layout Top Cell" internal none Inv
+"PVS Job Mode" internal none lvs
+"Report MaxResults" internal none 1000
+"Rule File" input text /home/viterbi/09/lijunlia/work_gpdk045/LVS/.technology.rul
+"Run Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045/LVS/
+"SCONNECT RDB" output rdb /home/viterbi/09/lijunlia/work_gpdk045/LVS/Inv.softchk
+"Schematic Top Cell" internal none Inv
+"UI Data" internal none ENABLED
+"PVS Version" internal none 16.15-s010
+"Binary Name" internal none pvs
+"PVS Build Date" internal none "Fri Jun 28 22:24:07 PDT 2019"
+"PVS Job Time" internal none 1662105606
+"Comparison Result" internal none MATCH
+"LVS Run Name" internal none Inv.rep
+"Run Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045/LVS/
+"Schematic Netlist" input text /home/viterbi/09/lijunlia/work_gpdk045/LVS/netlist
+"UI Data" internal none ENABLED
+"PVS Version" internal none 16.15-s010
+"Binary Name" internal none pvsnvn
+"PVS Build Date" internal none "Fri Jun 28 22:24:07 PDT 2019"
+"PVS Job Time" internal none 1662105607

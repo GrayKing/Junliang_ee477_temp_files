@@ -1,0 +1,8 @@
+CADENCE IHNL11140
+$model
+lab0/Inv/schematic Inv
+$endmodel
+$net
+$endnet
+$param
+$endparam

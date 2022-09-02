@@ -1,0 +1,14 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "Inv"
+  repList "auCdl schematic"
+  stopList "auCdl"
+  hierDelim "."
+  netlistDir "/home/viterbi/09/lijunlia/work_gpdk045/LVS/"
+ )
+( model
+( "lab0/Inv/schematic" "Inv" )
+ )
+( "Inv" "ihnl/cds0/map" )
+ )

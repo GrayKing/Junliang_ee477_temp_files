@@ -1,0 +1,61 @@
+"Cadence Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045/.cadence/
+"Current Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045
+"GUI Flow" internal none virtuoso6
+"GUI Preset" internal none /home/viterbi/09/lijunlia/work_gpdk045/DRC/.preset.autosave
+"Job Signature" internal none IPVS_1662105521_264436
+"PVS Job Mode" internal none drc
+"Run Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045/DRC
+"Technology Mapping File" internal none /home/viterbi/09/lijunlia/work_gpdk045/pvtech.lib
+"Technology Name" internal none "gpdk045_pvs"
+"Technology Rule File" internal none /home/viterbi/09/lijunlia/work_gpdk045/DRC/.technology.rul
+"Technology RuleSet" internal none "default"
+"PVS Version" internal none 16.15-s010
+"Binary Name" internal none pvsgui
+"PVS Build Date" internal none "Fri Jun 28 22:24:07 PDT 2019"
+"PVS Job Time" internal none 1662105536
+"Cell Tree" output text /home/viterbi/09/lijunlia/work_gpdk045/DRC/cell_tree.txt
+"Control File" input text /home/viterbi/09/lijunlia/work_gpdk045/DRC/pvsdrcctl
+"DFII version" internal none 6.1.7.0
+"Do not check rules files before run" internal none ENABLED
+"Input Layout" input none OA: lab0 Inv layout
+"Intermediate GDSII File" output none /home/viterbi/09/lijunlia/work_gpdk045/DRC/Inv.gds
+"Intermediate GDSII File creation Errors" output none /home/viterbi/09/lijunlia/work_gpdk045/DRC/PIPO1.LOG
+"Intermediate OASIS File creation Errors" output none /home/viterbi/09/lijunlia/work_gpdk045/DRC/PIPO1.LOG
+"Job Signature" internal none IPVS_1662105521_264436
+"Layout Cell Name" internal none Inv
+"Layout ConvertPin" internal text geometryAndText
+"Layout GDSII" input none /home/viterbi/09/lijunlia/work_gpdk045/DRC/Inv.gds
+"Layout HierDepth" internal none 32
+"Layout Library Name" internal none lab0
+"Layout MaxVertices" internal none 2048
+"Layout NoConvertHalfWidthPath" input none nil
+"Layout ReplaceBusBitChar" input none nil
+"Layout Scale" internal none 0.0005
+"Layout TechLib" internal none gpdk045
+"Layout Top Cell" internal none Inv
+"Layout View Name" internal none layout
+"Output Layout Cellmap I" internal text /home/viterbi/09/lijunlia/work_gpdk045/DRC/lay_cellMap.txt
+"PIPO Log I" log text  /home/viterbi/09/lijunlia/work_gpdk045/DRC/PIPO1.LOG
+"PIPO Output I" internal text  /home/viterbi/09/lijunlia/work_gpdk045/DRC/PIPO1.OUT
+"PIPO Setup File I" internal text  /home/viterbi/09/lijunlia/work_gpdk045/DRC/pipo1.setup
+"PVS Job Log" log text /home/viterbi/09/lijunlia/work_gpdk045/DRC/pvsuidrc.log
+"PVS Job Mode" internal none drc
+"Rule File" input text /home/viterbi/09/lijunlia/work_gpdk045/DRC/.technology.rul
+"Run Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045/DRC
+"PVS Version" internal none 16.15-s010
+"Binary Name" internal none pvsvirt
+"PVS Build Date" internal none "Fri Jun 28 22:24:07 PDT 2019"
+"PVS Job Time" internal none 1662105537
+"ASCII DRC Report Database" output rdb /home/viterbi/09/lijunlia/work_gpdk045/DRC/Inv.drc_errors.ascii
+"Cell Tree" output text /home/viterbi/09/lijunlia/work_gpdk045/DRC/cell_tree.txt
+"DRC Summary" output text /home/viterbi/09/lijunlia/work_gpdk045/DRC/Inv.sum
+"Layout GDSII" input none /home/viterbi/09/lijunlia/work_gpdk045/DRC/Inv.gds
+"PVS Job Mode" internal none drc
+"Report MaxResults" internal none 1000
+"Rule File" input text /home/viterbi/09/lijunlia/work_gpdk045/DRC/.technology.rul
+"Run Directory" internal none /home/viterbi/09/lijunlia/work_gpdk045/DRC/
+"UI Data" internal none ENABLED
+"PVS Version" internal none 16.15-s010
+"Binary Name" internal none pvs
+"PVS Build Date" internal none "Fri Jun 28 22:24:07 PDT 2019"
+"PVS Job Time" internal none 1662105538

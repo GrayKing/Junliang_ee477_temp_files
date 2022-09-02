@@ -1,0 +1,7 @@
+include ~ee577/CDS_GPDK45/gpdk045_v_5_0/cds.lib
+include ~ee577/CDS_GPDK45/gsclib045_svt_mini_v4.4/cds.lib
+include ~ee577/CDS_GPDK45/gpdk045_v_5_0/cds.lib
+include ~ee577/CDS_GPDK45/gsclib045_svt_mini_v4.4/cds.lib
+DEFINE lab0 /home/viterbi/09/lijunlia/work_gpdk045/lab0
+include ~ee577/CDS_GPDK45/gpdk045_v_5_0/cds.lib
+include ~ee577/CDS_GPDK45/gsclib045_svt_mini_v4.4/cds.lib
